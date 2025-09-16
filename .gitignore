@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+env/
+muenv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Optional: IDE/editor folders
+.vscode/
+.idea/
